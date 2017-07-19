@@ -1,4 +1,4 @@
-1# Github Finder
+# Github Finder
 
 Searches Github.com user profiles and displays profile info and the latest repositories
 
@@ -7,4 +7,4 @@ Searches Github.com user profiles and displays profile info and the latest repos
 
 ## Usage
 
-Open index.html
+Open the index.html in a browser *(IE 11 or better, preferably Edge,Chrome or Firefox).
